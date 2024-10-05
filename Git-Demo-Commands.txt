@@ -1,0 +1,13 @@
+Git commands
+
+1)git status - To check the status of the repository
+2)git init - intialize
+3)git add. -to add all the files
+4)git add FileName - for inserting only one file
+5)git commit-m "Message"
+6)git remote add origin url
+7)git checkout -b BranchName (if branch does not exist it will create)
+   git checkout BranchName(In existing branch)
+8)git pull origin BranchName
+9)git push origin BranchName
+
